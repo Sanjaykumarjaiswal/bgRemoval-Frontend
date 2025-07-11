@@ -4,7 +4,6 @@ import Result from './pages/Result'
 import Home from './pages/Home'
 import BuyCredit from './pages/BuyCredit'
 import Navbar from './components/Navbar'
-import Footer from './components/footer'
 
 export default function App() {
   return (
